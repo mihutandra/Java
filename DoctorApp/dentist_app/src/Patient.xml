@@ -1,0 +1,17 @@
+<patients>
+  <patient>
+    <id>1000</id>
+    <name>Cionte Bianca</name>
+    <disease>flu</disease>
+  </patient>
+  <patient>
+    <id>1001</id>
+    <name>Muresan Cosmin</name>
+    <disease>headaches</disease>
+  </patient>
+  <patient>
+    <id>1002</id>
+    <name>Pop Cristina</name>
+    <disease>pneumonia</disease>
+  </patient>
+</patients>

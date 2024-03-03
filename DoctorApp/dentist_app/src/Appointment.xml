@@ -1,0 +1,10 @@
+<appointments>
+  <appointment id="2000">
+    <description>Monthly check for stomach aches</description>
+    <date>17/12/2024</date>
+  </appointment>
+  <appointment id="2001">
+    <description>Yearly consultation for diabetes</description>
+    <date>20/04/2024</date>
+  </appointment>
+</appointments>

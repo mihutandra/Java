@@ -1,0 +1,6 @@
+2000,Monthly check for cancer,23/11/2024
+2001,Weekly check for diabetes,10/11/2024
+2002,Annual ophthalmological consultation,27/03/2024
+2003,Dermatological control for acne,01/02/2024
+2004,Routine consultation for scoliosis,24/05/2024
+

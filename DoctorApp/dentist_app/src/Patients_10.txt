@@ -1,0 +1,5 @@
+1000,Muresan Cosmina,flu
+1001,Pavel Andra,pneumonia
+1002,Buruian Amalia,stomach aches
+1003,Pop Ana,conjunctivitis
+1004,Bercu Iulia,chickenpox
